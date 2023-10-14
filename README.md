@@ -56,4 +56,11 @@
 </a>
 </p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31qwpy4ksdvisaljvsanlx3ze3ba?si=3ec212c4af1c4dc0)
+
+---
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandagilang11" alt="nandagilang11" /></a> </p>
