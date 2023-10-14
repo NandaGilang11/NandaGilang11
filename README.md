@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Laravel, Vue**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **nandagilang61@gmail.com**
 
@@ -21,30 +21,26 @@
 </p>
 
 ### Language and Framework
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3&logoColor=%231572B6)
+![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=%237952B3)
+![C++](https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B&logoColor=%2300599C)
+![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino&logoColor=%2300878F)
+![SQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=%234479A1)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%233776AB)
+![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=%23FF2D20)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js&logoColor=%234FC08D)
 
 ### Tools
 
-<p align="left">
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-</p>
+![](https://img.shields.io/badge/VS%20Code-black?logo=visualstudiocode&logoColor=%23007ACC)
+![](https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F05032)
+![](https://img.shields.io/badge/GitHub-black?logo=github)
+![](https://img.shields.io/badge/XAMPP-black?logo=xampp&logoColor=%23FB7A24)
+![](https://img.shields.io/badge/Figma-black?logo=figma&logoColor=%F24E1E)
+![](https://img.shields.io/badge/Ilustrator-black?logo=adobeillustrator&logoColor=%FF9A00)
+![](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&logoColor=%31A8FF)
 
 ### Github Statistic
 <p align="left">
