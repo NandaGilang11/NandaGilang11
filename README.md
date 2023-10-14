@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nanda Gilang</h1>
 <h3 align="center">I am a Web Developer and also a student at Amikom University Yogyakarta</h3>
+
 <br>
 
 ![](https://github.com/NandaGilang11/NandaGilang11/blob/main/header_.png)
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandagilang11&label=Profile%20views&color=0e75b6&style=flat" alt="nandagilang11" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nandagilang11&label=Profile%20views&color=0e75b6&style=flat" alt="nandagilang11" /> </p>
 
+<img align="right" src="https://github.com/NandaGilang11/NandaGilang11/blob/main/Kirito.gif" width="40%"/>
+
+### About Me
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Laravel**
@@ -14,6 +18,8 @@
 - 📫 How to reach me **nandagilang61@gmail.com**
 
 - ⚡ Fun fact **Thanos was Right**
+
+<br>
 
 ### Connect with Me
 <p align="left">
