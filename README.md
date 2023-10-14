@@ -8,8 +8,6 @@
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nandagilang11&label=Profile%20views&color=0e75b6&style=flat" alt="nandagilang11" /> </p>
 
-<img align="right" src="https://github.com/NandaGilang11/NandaGilang11/blob/main/Kirito.gif" width="40%"/>
-
 ### About Me
 - 🌱 I’m currently learning **Laravel**
 
